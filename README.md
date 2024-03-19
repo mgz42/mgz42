@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![clone1](https://github.com/mgz42/mgz42/assets/80161896/f5ec5cb1-90c9-4388-8269-3acee47b572c)
+
 <!--
 **mgz42/mgz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
